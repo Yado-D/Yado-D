@@ -3,10 +3,10 @@
 ### Flutter & Node.js Developer | Full Stack Enthusiast
 
 [![Email](https://img.shields.io/badge/-yareddereje780@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yareddereje780@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yareddereje/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](YOUR_CODEFORCES_URL)
-[![Telegram](https://img.shields.iobadge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Yared_D)
+[![Telegram](https://img.shields.iobadge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Yar_Der)
 
 ## 🚀 About Me
 
@@ -35,15 +35,14 @@ I'm a passionate Flutter app developer and Backend Developer with Node.js. Curre
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yado-D&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yado-D&layout=compact&theme=radical)
 
 ## 🔥 Currently Learning
 - Advanced Node.js concepts
 - React framework
 - Python for backend development
-- System design principles
 
 ## 📫 Let's Connect!
 I'm always open to interesting projects and collaborations. Feel free to reach out!
