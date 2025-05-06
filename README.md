@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yareddereje/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](YOUR_YOUTUBE_URL)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Yared_D)
-[![Telegram](https://img.shields.iobadge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Yar_Der)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Yar_Der)
 
 ## 🚀 About Me
 
@@ -41,6 +41,7 @@ I'm a passionate Flutter app developer and Backend Developer with Node.js. Curre
 
 ## 🔥 Currently Learning
 - Advanced Node.js concepts
+- Advanced Flutter
 - React framework
 - Python for backend development
 
